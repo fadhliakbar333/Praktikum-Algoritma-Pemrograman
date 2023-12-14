@@ -25,3 +25,10 @@
 <p>Input adalah sesuatu data yang kita masukan ke dalam program. Input biasanya diambil dari perangakat inputan seperti keyboard, mouse, kamera, microphone, dll. Proses adalah langkah-langkah yang harus dilakukan program untuk menghasilkan output. Output adalah informasi yang dihasilkan setelah dilakukan proses. Output
 biasanya ditampilkan ke layar komputer.</p>
 <p>Fungsi printf() merupakan fungsi untuk menampilkan output ke layar komputer. Fungsi puts() adalah fungsi untuk menampilkan output. Fungsi ini juga terdapat pada library stdio.h. Fungsi scanf() adalah fungsi untuk mengambil input dari keyboard. Fungsi ini memiliki format seperti fungsi printf(). Fungsi gets() adalah fungsi untuk mengambil input dalam satu baris. Fugnsi gets() tidak memerlukan format seperti scanf(). Fungsi fgets() lebih aman dibandingkan gets(), karena kita bisa menentukan ukuran buffer dan sumber inputan.</p>
+
+# Job Sheet 3
+<h3>Variabel</h3>
+<p>Variabel adalah sebuah tempat menyimpan sebuah nilai. Sementara tipe data adalah jenis nilai yang akan tersimpan dalam variabel. Aturan Penulisan Variabel pada C: 1. Nama variabel tidak boleh didahului dengan simbol dan angka, 2. Nama variabel tidak boleh menggunakan kata kunci yang sudah ada pada bahasa C, contoh: if, int, void, dll, 3. Nama variabel bersifat case sensitive, artinya huruf besar dan kecil dibedakan, contoh: nama dan Nama adalah dua variabel yang berbeda, 4. Disarankan menggunakan underscore untuk nama variabel yang terdiri dari dua suku kata, contoh: nama_lengkap.</p>
+<h3>Tipe Data</h3>
+<p>Tipe data atau kadang disingkat dengan ‘tipe’ saja adalah sebuah pengelompokan data untuk memberitahu compiler atau interpreter bagaimana programmer ingin mengolah data tersebut. Ada delapan jenis tipe data pada C: 1. Char, 2. Integer, 3. Float, 4. Array, 5. Structure, 6. Pointer, 7. Enum, 8. Void. </p>
+
