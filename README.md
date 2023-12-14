@@ -18,5 +18,6 @@
 <p>Dalam setiap bahasa pemrograman memiliki sintaks tersendiri yang dapat diartikan sebagai aturan penulisan kode pada bahasa pemrograman tersebut. Ini adalah 
  struktur dasar yang wajib dipahami. Struktur program C dibagi menjadi dua bagian utama:
 1) Bagian Include;
-2) Blok Fungsi Main
-</p>
+2) Blok Fungsi Main.</p>
+<p>Struktur dasar C yaitu header files digunakan untuk memasukkan sebuah file khusus yang memungkinkan untuk mengakses berbagai fitur tambahan dalam bahasa , main function satu-satunya perintah yang harus ada di setiap kode program bahasa, statement adalah perintah-perintah atau fungsi untuk melakukan sesuatu, semicolons menandakan berakhirnya sebuah perintah atau statement, identifier merupakan sebuah nama yang digunakan untukmengidentifikasi variabel, fungsi, atau semua item yang didefinisikan oleh programmer, comment digunakan untuk mendeskripsikan fungsi dari baris program atau mendokumentasi setiap bagian dari sebuah program, whitespaces digunakan untuk mendeskripsikan blank, tab, spasi, baris baru dan dapat juga berupa komentar.</p>
+
