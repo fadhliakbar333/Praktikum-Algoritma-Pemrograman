@@ -12,3 +12,5 @@
 <p>Pemrograman adalah proses menulis, menguji, dan memelihara kode komputer untuk menciptakan perangkat lunak atau aplikasi. Ada berbagai bahasa pemrograman seperti Python, Java, C++, JavaScript, dan banyak lainnya, yang digunakan untuk mengimplementasikan algoritma dalam bentuk kode komputer. Pemrograman dapat mengikuti paradigma tertentu seperti pemrograman prosedural, berorientasi objek, atau fungsional.</p>
 <h3>IDE (Integrated Development Environment):
 <p>IDE adalah lingkungan terpadu yang menyediakan alat untuk pengembangan perangkat lunak, termasuk editor kode, compiler, debugger, dan seringkali fitur lain seperti manajemen proyek.Fungsi dari IDE yaitu Editor Code yaitu menyediakan fasilitas penulisan dan penyuntingan kode, Compiler/Interprete yaitu mengubah kode sumber menjadi instruksi mesin atau menjalankan kode langsung, Debugger yaitu membantu dalam mengidentifikasi dan memperbaiki bug dalam kode, Manajemen Proyek yaitu memfasilitasi pengaturan dan organisasi proyek pengembangan perangkat lunak. Contoh IDE adalah Visual Studio (untuk bahasa seperti C# atau Visual Basic), Eclipse (Java, C/C++), PyCharm (Python), dan banyak lagi.</p>
+
+# Job Sheet 2
