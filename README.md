@@ -7,6 +7,4 @@
 
 # Job Sheet 1
 # <h3>Algoritma:
-<p>Definisi: Algoritma adalah langkah-langkah terstruktur yang digunakan untuk menyelesaikan masalah atau menjalankan suatu tugas.
-Fungsi: Algoritma membantu programmer merencanakan dan mengorganisir langkah-langkah yang diperlukan untuk mencapai tujuan tertentu.
-Contoh: Algoritma untuk mengurutkan daftar bilangan, mencari elemen tertentu dalam sebuah larik, atau menghitung nilai rata-rata.</p>
+<p>Algoritma adalah langkah-langkah terstruktur yang digunakan untuk menyelesaikan masalah atau menjalankan suatu tugas. Fungsi dari algoritma yaitu membantu programmer merencanakan dan mengorganisir langkah-langkah yang diperlukan untuk mencapai tujuan tertentu. Contohnya adalah algoritma untuk mengurutkan daftar bilangan, mencari elemen tertentu dalam sebuah larik, atau menghitung nilai rata-rata.</p>
