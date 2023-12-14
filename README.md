@@ -30,5 +30,10 @@ biasanya ditampilkan ke layar komputer.</p>
 <h3>Variabel</h3>
 <p>Variabel adalah sebuah tempat menyimpan sebuah nilai. Sementara tipe data adalah jenis nilai yang akan tersimpan dalam variabel. Aturan Penulisan Variabel pada C: 1. Nama variabel tidak boleh didahului dengan simbol dan angka, 2. Nama variabel tidak boleh menggunakan kata kunci yang sudah ada pada bahasa C, contoh: if, int, void, dll, 3. Nama variabel bersifat case sensitive, artinya huruf besar dan kecil dibedakan, contoh: nama dan Nama adalah dua variabel yang berbeda, 4. Disarankan menggunakan underscore untuk nama variabel yang terdiri dari dua suku kata, contoh: nama_lengkap.</p>
 <h3>Tipe Data</h3>
-<p>Tipe data atau kadang disingkat dengan ‘tipe’ saja adalah sebuah pengelompokan data untuk memberitahu compiler atau interpreter bagaimana programmer ingin mengolah data tersebut. Ada delapan jenis tipe data pada C: 1. Char, 2. Integer, 3. Float, 4. Array, 5. Structure, 6. Pointer, 7. Enum, 8. Void. </p>
+<p>Tipe data atau kadang disingkat dengan ‘tipe’ saja adalah sebuah pengelompokan data untuk memberitahu compiler atau interpreter bagaimana programmer ingin mengolah data tersebut. Ada delapan jenis tipe data pada C: 1. Char, 2. Integer, 3. Float, 4. Array, 5. Structure, 6. Pointer, 7. Enum, 8. Void. Konversi tipe data atau type casting adalah proses mengubah tipe data menjadi tipe yang lain. Cara mengubah tipe data pada C, cukup dengan menuliskan nama tipe datanya di depan nilai atau variabel yang ingin dibuat.</p>
+<h3>Konstanta</h3>
+<p>Konstanta adalah sebuah nilai tetapan. Bisa juga dibilang sebagai variabel yang tidak bisa diubah nilainya. Ada dua cara pembuatan konstanta pada C: 1. Menggunakan #define, 2. Menggunakan const. Perbedaan pembuatan konstanta yang menggunakan #define dan const terletak pada format penulisannya. Pada #define kita tidak perlu menuliskan tipe data, sedangkan const harus. Pada #define kita tidak membutuhkan titik koma di akhir, sedangkan pada const kita harus menuliskan titik koma. Posisi penulisan untuk #define dan const bisa ditulis di dalam main() maupun di luar.</p>
+
+# Job Sheet 4
+
 
