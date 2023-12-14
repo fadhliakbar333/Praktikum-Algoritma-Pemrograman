@@ -6,6 +6,7 @@
 # <h3>Prodi : Informatika<h3>
 
 # Job Sheet 1
-<p> Algoritma adalah urutan langkah-langkah yang disusun secara sistematis dan
-logis untuk menyelesaikan suatu masalah atau mencapai suatu tujuan tertentu.
-Sebuah algoritma mempunyai awal dan akhir.</p>
+<p> Algoritma:
+Definisi: Algoritma adalah langkah-langkah terstruktur yang digunakan untuk menyelesaikan masalah atau menjalankan suatu tugas.
+Fungsi: Algoritma membantu programmer merencanakan dan mengorganisir langkah-langkah yang diperlukan untuk mencapai tujuan tertentu.
+Contoh: Algoritma untuk mengurutkan daftar bilangan, mencari elemen tertentu dalam sebuah larik, atau menghitung nilai rata-rata.</p>
